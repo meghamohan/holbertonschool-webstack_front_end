@@ -1,0 +1,7 @@
+/* assigns to body and .red class using nested */
+body {
+        color: #3D3D3D;
+        > .red {
+                color: #FF0000;
+            }
+}
