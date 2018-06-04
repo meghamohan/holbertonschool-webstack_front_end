@@ -1,0 +1,14 @@
+/* assigns #3D3D3D to body and p,#6D6D6D to body and h2 */
+$textColor: #3D3D3D;
+$bgColor: #6D6D6D;
+body {
+    color: $textColor;
+    background-color: $bgColor;
+}
+p {
+    color: $textColor;
+    background-color: $bgColor;
+}
+h2 {
+    background-color: $bgColor;
+}
